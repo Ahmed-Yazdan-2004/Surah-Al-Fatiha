@@ -1,0 +1,30 @@
+h1{
+text-align:center;
+color:teal;
+border-bottom:2px black solid;
+}
+body{
+background-color:#F0E68C;
+font-family: 'Balsamiq Sans', cursive;
+box-sizing:border-box;
+}
+div{
+padding:15px 10px;
+}
+
+ul{
+list-style:circle;
+list-position:outside;
+}
+
+#ayat{
+font-size:30px;
+color:tomato;
+text-decoration:underline;
+text-decoration-color:lime;
+
+}
+
+.bangla{
+font-family: 'Hind Siliguri', sans-serif;
+}
